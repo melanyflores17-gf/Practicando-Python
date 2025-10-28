@@ -6,19 +6,19 @@ Este repositorio forma parte de mi proceso de aprendizaje en Python aplicado a l
 
 En este módulo se introducen los conceptos esenciales de Python, incluyendo:
 
-Variables y tipos de datos
+- Variables y tipos de datos
 
-Funciones
+- Funciones
 
-Estructuras de control (if, elif, else, for, while)
+- Estructuras de control (if, elif, else, for, while)
 
-Manejo de excepciones
+- Manejo de excepciones
 
 También se abordan las primeras herramientas del ecosistema de ciencia de datos, como las bibliotecas:
 
-Pandas → para cargar, explorar y manipular datos en tablas
+- Pandas → para cargar, explorar y manipular datos en tablas
 
-Matplotlib → para crear gráficos sencillos y visualizaciones básicas
+- Matplotlib → para crear gráficos sencillos y visualizaciones básicas
 
 Este aprendizaje proporciona la base necesaria para aplicar Python en proyectos prácticos y explorar datos de forma inicial.
 
@@ -26,23 +26,23 @@ Este aprendizaje proporciona la base necesaria para aplicar Python en proyectos 
 
 🔹 Artículo
 
-Google Colab: ¿Qué es y cómo usarlo?
+- Google Colab: ¿Qué es y cómo usarlo?
 
-Introducción al entorno de ejecución en la nube ideal para practicar Python y ciencia de datos.
+- Introducción al entorno de ejecución en la nube ideal para practicar Python y ciencia de datos.
 
 🔹 Cursos
 
 Python para Data Science: primeros pasos
 
-Fundamentos del lenguaje y su uso en análisis de datos.
+- Fundamentos del lenguaje y su uso en análisis de datos.
 
-Practicando Python: condicionales if, elif y else
+- Practicando Python: condicionales if, elif y else
 
-Aplicación práctica de estructuras condicionales.
+- Aplicación práctica de estructuras condicionales.
 
-Practicando Python: bucles for y while
+- Practicando Python: bucles for y while
 
-Automatización de tareas repetitivas mediante estructuras de iteración.
+- Automatización de tareas repetitivas mediante estructuras de iteración.
 
 ⚙️ Tecnologías utilizadas
 
