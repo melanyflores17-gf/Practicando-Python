@@ -1,4 +1,5 @@
 🧠 Aprendiendo Python para la Ciencia de Datos
+
 Este repositorio forma parte de mi proceso de aprendizaje en Python aplicado a la ciencia de datos. Aquí iré documentando ejercicios, prácticas y notas sobre los temas fundamentales del lenguaje y su aplicación en el análisis de datos.
 
 📘 Descripción del módulo
