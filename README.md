@@ -1,8 +1,8 @@
-🧠 Aprendiendo Python para la Ciencia de Datos
+#🧠 Aprendiendo Python para la Ciencia de Datos
 
 Este repositorio forma parte de mi proceso de aprendizaje en Python aplicado a la ciencia de datos. Aquí iré documentando ejercicios, prácticas y notas sobre los temas fundamentales del lenguaje y su aplicación en el análisis de datos.
 
-📘 Descripción del módulo
+#📘 Descripción del módulo
 
 En este módulo se introducen los conceptos esenciales de Python, incluyendo:
 
@@ -22,7 +22,7 @@ Matplotlib → para crear gráficos sencillos y visualizaciones básicas
 
 Este aprendizaje proporciona la base necesaria para aplicar Python en proyectos prácticos y explorar datos de forma inicial.
 
-📚 Contenido de aprendizaje
+#📚 Contenido de aprendizaje
 
 🔹 Artículo
 
@@ -44,7 +44,7 @@ Practicando Python: bucles for y while
 
 Automatización de tareas repetitivas mediante estructuras de iteración.
 
-⚙️ Tecnologías utilizadas
+#⚙️ Tecnologías utilizadas
 
 Python 3.x
 
