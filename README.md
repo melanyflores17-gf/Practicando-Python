@@ -42,6 +42,6 @@ Python para Data Science: primeros pasos
 - Pandas
 - Matplotlib
 
-🚀 Objetivo
+# 🚀 Objetivo
 
 Desarrollar una base sólida en programación con Python orientada a la ciencia de datos, adquiriendo la capacidad de manipular, analizar y visualizar información de manera efectiva.
